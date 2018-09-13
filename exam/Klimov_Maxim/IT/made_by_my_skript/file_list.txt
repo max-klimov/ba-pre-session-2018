@@ -1,0 +1,5 @@
+total 1
+drwxr-xr-x 1 User 197609  0 Sep 13 16:39 ./
+drwxr-xr-x 1 User 197609  0 Sep 13 16:39 ../
+-rw-r--r-- 1 User 197609  0 Sep 13 16:39 file_list.txt
+-rw-r--r-- 1 User 197609 13 Sep 13 16:39 hello.txt
